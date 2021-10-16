@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/jhw1925/react-yts-movie.git/static/css/main.4a1f0ea1.chunk.css",
-    "main.js": "/jhw1925/react-yts-movie.git/static/js/main.0a7f4a17.chunk.js",
-    "main.js.map": "/jhw1925/react-yts-movie.git/static/js/main.0a7f4a17.chunk.js.map",
-    "runtime-main.js": "/jhw1925/react-yts-movie.git/static/js/runtime-main.58298c84.js",
-    "runtime-main.js.map": "/jhw1925/react-yts-movie.git/static/js/runtime-main.58298c84.js.map",
-    "static/js/2.71bdc4b1.chunk.js": "/jhw1925/react-yts-movie.git/static/js/2.71bdc4b1.chunk.js",
-    "static/js/2.71bdc4b1.chunk.js.map": "/jhw1925/react-yts-movie.git/static/js/2.71bdc4b1.chunk.js.map",
-    "static/js/3.046782f5.chunk.js": "/jhw1925/react-yts-movie.git/static/js/3.046782f5.chunk.js",
-    "static/js/3.046782f5.chunk.js.map": "/jhw1925/react-yts-movie.git/static/js/3.046782f5.chunk.js.map",
-    "index.html": "/jhw1925/react-yts-movie.git/index.html",
-    "static/css/main.4a1f0ea1.chunk.css.map": "/jhw1925/react-yts-movie.git/static/css/main.4a1f0ea1.chunk.css.map",
-    "static/js/2.71bdc4b1.chunk.js.LICENSE.txt": "/jhw1925/react-yts-movie.git/static/js/2.71bdc4b1.chunk.js.LICENSE.txt"
+    "main.css": "/react-yts-movie/static/css/main.4a1f0ea1.chunk.css",
+    "main.js": "/react-yts-movie/static/js/main.0a7f4a17.chunk.js",
+    "main.js.map": "/react-yts-movie/static/js/main.0a7f4a17.chunk.js.map",
+    "runtime-main.js": "/react-yts-movie/static/js/runtime-main.0ea6654a.js",
+    "runtime-main.js.map": "/react-yts-movie/static/js/runtime-main.0ea6654a.js.map",
+    "static/js/2.71bdc4b1.chunk.js": "/react-yts-movie/static/js/2.71bdc4b1.chunk.js",
+    "static/js/2.71bdc4b1.chunk.js.map": "/react-yts-movie/static/js/2.71bdc4b1.chunk.js.map",
+    "static/js/3.046782f5.chunk.js": "/react-yts-movie/static/js/3.046782f5.chunk.js",
+    "static/js/3.046782f5.chunk.js.map": "/react-yts-movie/static/js/3.046782f5.chunk.js.map",
+    "index.html": "/react-yts-movie/index.html",
+    "static/css/main.4a1f0ea1.chunk.css.map": "/react-yts-movie/static/css/main.4a1f0ea1.chunk.css.map",
+    "static/js/2.71bdc4b1.chunk.js.LICENSE.txt": "/react-yts-movie/static/js/2.71bdc4b1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.58298c84.js",
+    "static/js/runtime-main.0ea6654a.js",
     "static/js/2.71bdc4b1.chunk.js",
     "static/css/main.4a1f0ea1.chunk.css",
     "static/js/main.0a7f4a17.chunk.js"
