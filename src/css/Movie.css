@@ -1,0 +1,74 @@
+#movie_wrap{
+    width: 900px;
+    /* width: 100%; */
+    height: 400px;
+    background-color: aqua;
+    margin: 0 auto;
+  }
+
+  #movie_wrap>#img_box{
+    float: left;
+    /* width: 250px; */
+    width: 30%;
+    height: 380px;
+    background-color: green;
+    padding-top: 17.5px;
+    box-sizing: border-box;
+  }
+
+  #movie_wrap>#text_box{
+    float: left;
+    /* width: 650px; */
+    width: 70%;
+    height: 380px;
+    background-color: wheat;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+  }
+
+  #text_box span{
+      margin-right: 10px;
+      background-color: goldenrod;
+  }
+
+  #text_box>div:nth-child(odd) {  
+    /* 홀수 차일드 */
+    background-color: gray;
+  }
+
+  #text_box>div:nth-child(even) {
+    /* 짝수 차일드 */
+    background-color: darkgray;
+  } 
+
+  #text_box>div:first-child {  
+    font-size: 25px;
+    font-weight: bold;
+  }
+  
+  #text_box>div:last-child {
+    flex: auto;
+    /* height: 275px; */
+    overflow: auto;
+    overflow-x: hidden;
+    /* 줄거리가 가끔 긴 경우가 있어서 추가 */
+    /* 
+      overflow-y: scroll 사용하면
+      오버플로우가 아닌 경우에도 스크롤 기능 없는
+      스크롤 바가 생성이 됨
+     */
+  } 
+
+  #text_box>div:nth-child(4) {
+    font-weight: bold;
+    padding-bottom: 1px;
+    box-sizing: border-box;
+  } 
+
+  .half_star {
+    font-size: 22px;
+    margin-right: 5px;
+    color:rgb(255, 217, 1); 
+  }

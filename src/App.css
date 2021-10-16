@@ -1,0 +1,9 @@
+* {
+  list-style-type: none;
+  text-decoration: none;
+  margin: 0;
+}
+
+#App {
+  text-align: center;
+}

@@ -1,0 +1,32 @@
+#search_wrap {
+    height: 50px;
+    width: 100%;    
+    background-color:darkkhaki;
+  }
+  
+  #search_input {
+    text-decoration: none;
+    margin-top: 7px;
+    font-size: 25px;
+    box-sizing: border-box;
+  }
+  
+  #search_wrap button {
+    font-size: 22px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    color: white;
+    background-color:seagreen;
+    border-color:olivedrab;
+  }
+  
+  #select_per_page {
+    margin-right: 10px;
+    padding-top: 3px;
+    box-sizing: border-box;
+    /* height: 3px; */
+    font-size: 20px;
+  }
